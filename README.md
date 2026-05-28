@@ -120,15 +120,4 @@ Business stakeholders should:
 - Expand high-performing supermarket outlet types
 - Use predictive analytics to improve inventory planning
 
----
 
-# Repository Structure
-
-```bash
-sales-prediction-retail-analytics/
-│
-├── data/
-├── notebooks/
-├── images/
-├── README.md
-└── requirements.txt
