@@ -1,4 +1,4 @@
-# Prediction-of-product-sales Using Machine Learning
+<img width="3352" height="1638" alt="linear_regression_coefficients" src="https://github.com/user-attachments/assets/328d36ba-a826-43db-b77f-fe90338d3c74" /># Prediction-of-product-sales Using Machine Learning
 
 # Project Overview
 
@@ -41,6 +41,8 @@ Target Variable:
 Higher-priced products generally achieve higher sales revenue. The visualization below shows a positive relationship between `Item_MRP` and `Item_Outlet_Sales`.
 
 ![MRP vs Sales](images/boxplot_mrp.png)
+<img width="1769" height="1361" alt="sales_plot" src="https://github.com/user-attachments/assets/e8c8dd53-0ae3-4d1f-995b-3acf777fa7c5" />
+
 
 ---
 
@@ -49,6 +51,7 @@ Higher-priced products generally achieve higher sales revenue. The visualization
 Supermarket Type3 stores consistently produce the highest average sales compared to other outlet types.
 
 ![Outlet Type](images/outlet_type_sales.png)
+<img width="2141" height="1682" alt="boxplot_outlet_sales" src="https://github.com/user-attachments/assets/d0d0b5bb-5396-48ce-afab-ab465f620069" />
 
 ---
 
@@ -76,6 +79,8 @@ The Random Forest model achieved the best predictive performance.
 # Linear Regression Coefficients
 
 ![Linear Regression Coefficients](images/linear_regression_coefficients.png)
+<img width="3352" height="1638" alt="linear_regression_coefficients" src="https://github.com/user-attachments/assets/99e2a8c7-4aee-415b-9f62-3d62510b3389" />
+
 
 ## Interpretation
 
@@ -95,6 +100,8 @@ The most impactful features in the Linear Regression model were:
 # Random Forest Feature Importance
 
 ![Feature Importance](images/random_forest_feature_importance.png)
+<img width="2897" height="1638" alt="tuned_random_forest_feature_importance" src="https://github.com/user-attachments/assets/26a3a356-121c-4f9b-99f4-4b7e8f0248aa" />
+
 
 ## Top Important Features
 
