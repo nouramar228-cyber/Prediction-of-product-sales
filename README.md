@@ -1,4 +1,4 @@
-<img width="3352" height="1638" alt="linear_regression_coefficients" src="https://github.com/user-attachments/assets/328d36ba-a826-43db-b77f-fe90338d3c74" /># Prediction-of-product-sales Using Machine Learning
+product-sales Using Machine Learning
 
 # Project Overview
 
@@ -51,7 +51,7 @@ Higher-priced products generally achieve higher sales revenue. The visualization
 Supermarket Type3 stores consistently produce the highest average sales compared to other outlet types.
 
 ![Outlet Type]
-(<img width="2141" height="1682" alt="boxplot_outlet_sales" src="https://github.com/user-attachments/assets/d0d0b5bb-5396-48ce-afab-ab465f620069" />)
+<img width="2141" height="1682" alt="boxplot_outlet_sales" src="https://github.com/user-attachments/assets/d0d0b5bb-5396-48ce-afab-ab465f620069" />
 
 ---
 
@@ -79,7 +79,7 @@ The Random Forest model achieved the best predictive performance.
 # Linear Regression Coefficients
 
 ![Linear Regression Coefficients]
-(<img width="3352" height="1638" alt="linear_regression_coefficients" src="https://github.com/user-attachments/assets/99e2a8c7-4aee-415b-9f62-3d62510b3389" />)
+<img width="3352" height="1638" alt="linear_regression_coefficients" src="https://github.com/user-attachments/assets/99e2a8c7-4aee-415b-9f62-3d62510b3389" />
 
 
 ## Interpretation
